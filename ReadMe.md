@@ -1,6 +1,6 @@
-# NETFLIX -GPT
+# Netflix -GPT
 
-# features 
+# Features 
 -Login/SignUp
    -SignIn/SignUp Form
    -redirect to Browse Page 
