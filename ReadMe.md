@@ -1,4 +1,27 @@
 # Netflix -GPT
+  -configured Tailwind CSS
+  -Header
+  -Routing of app
+  -Login Form
+  -Sign Up Form     use  Formik library for big forms
+  -Form Validation
+  - useRef Hook
+  -firebase setup
+  -deploying our app to production
+  -Create signUp user account
+  -Implement Sign in user Api
+  -Created Redux Store with userSlice
+  -Implemented SignOut
+  -Update Profile
+  -BUgFix:Sign up user displayName and profile
+  -BugFix :if user is not logged in Redirect/browse to Login  Page and vice versa
+  -Unsubscribed to the onAuthChanged callback
+  -Add harcoded values to the constants file
+  -Go to TMDB website
+
+
+
+
 
 # Features 
 -Login/SignUp
