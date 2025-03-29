@@ -1,5 +1,4 @@
 # Netflix -GPT
-<<<<<<< HEAD
   -configured Tailwind CSS
   -Header
   -Routing of app
@@ -23,8 +22,6 @@
 
 
 
-=======
->>>>>>> c8473f057813a8ff9bbd1ff87ae0ce1d2d91c0b8
 
 # Features 
 -Login/SignUp
